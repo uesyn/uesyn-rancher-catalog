@@ -1,0 +1,5 @@
+name: Rancher GlusterFS
+description: |
+   Docker volume plugin for GlusterFS.
+version: 0.0.1
+category: Storage
